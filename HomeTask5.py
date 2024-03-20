@@ -23,5 +23,7 @@ class NewsFeed:
 
 #usage
 news_feed = NewsFeed()
-news_feed.add_news("Modi is launching underwater metro station", "Kolkata")
-news_feed.add_private_ad("Summer sale", "2024-03-15")
+#news_feed.add_news("Modi is launching underwater metro station", "Kolkata")
+#news_feed.add_private_ad("Summer sale", "2024-03-15")
+news_feed.add_news("carnival in timesquare", "newyork")
+news_feed.add_private_ad("Covid 2024", "2024-03-15")
