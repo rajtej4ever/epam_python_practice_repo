@@ -7,8 +7,8 @@ set2 = {30, 50, 80}
 # result = {40, 90}
 
 # result = {10, 30}
-result=set1.remove(80)
-print(result)
+#result=set1.remove(80)
+print(set1 ^ set2)
 """set3={}
 
 for i in set1:
